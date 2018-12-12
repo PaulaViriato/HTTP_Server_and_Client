@@ -41,6 +41,6 @@
 -> Comando sem script: ./code/dist/cliente/cliente servidor:porta opcao<br>
 <br>
 ## Observacoes:
--> Relatorio em: relatorio.pdf<br>
+-> Relatorio em: relatorio/relatorio.pdf<br>
 -> Nao e necessario bibliotecas externas<br>
 -> Arquivos do banco de dados testado estao no diretorio input.
