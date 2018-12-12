@@ -2,7 +2,7 @@
 
 ## Desenvolvido por: Paula Jeniffer dos Santos Viriato
 ## Email: paulaviriato@dcc.ufmg.br
-<br>
+<br><br>
 ## SOBRE O CODIGO:
 -> Linguagem: Python3.6.7<br>
 -> Script de compilacao: compile.sh<br>
