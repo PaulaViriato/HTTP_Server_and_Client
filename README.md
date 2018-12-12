@@ -21,7 +21,7 @@
    - Comando para o servidor: pyinstaller servidor.py
    - Comando para o cliente: pyinstaller cliente.py
    - Comando inicial: cd ..
-<br>
+<br><br>
 ## Execucao do Servidor com o script:
 -> Necessita estar como usuário sudo.<br>
 -> Comando primeiro plano: ./servidor.sh porta netfile ixfile netixlanfile<br>
